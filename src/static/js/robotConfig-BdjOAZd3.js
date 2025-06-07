@@ -1,0 +1,1 @@
+import{aA as o}from"./index-DF2Bf9g4.js";const s="http://localhost:2556",e=t=>o.request("post",s+"/api/robotConfig/list",{data:t}),a=t=>o.request("post",s+"/api/robotConfig/listWithDetails",{data:t}),r=t=>o.request("post",s+"/api/robotConfig/update",{data:t});export{a,e as g,r as u};
