@@ -1,0 +1,1 @@
+import{aA as o}from"./index-BpLoP7Sh.js";const s="http://localhost:2556",e=t=>o.request("post",s+"/api/robotConfig/list",{data:t}),a=t=>o.request("post",s+"/api/robotConfig/listWithDetails",{data:t}),r=t=>o.request("post",s+"/api/robotConfig/update",{data:t});export{a,e as g,r as u};
